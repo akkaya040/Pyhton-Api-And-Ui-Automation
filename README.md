@@ -1,6 +1,9 @@
 # Pyhton-Api-And-Ui-Automation
 Pyhton Api And Ui Automation
 
+pip install -r req*.txt ile gereklilikler kurulmalıdır.
+
+
 ** UI Otomasyonu Çalıştırmak İçin Değişkenleri Passleyerek Çalıştırılmalıdır.
 * CrossBrowser Olarak Çalışmaktadır. BrowserUtils.py ile driver confileri yapılabilir ve headless da çalıştırılabilir.
 python3 test_search.py <browser> <searchText> <username> <password>
